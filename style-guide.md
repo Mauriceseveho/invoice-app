@@ -5,6 +5,9 @@
 - **Tablet**: `768px`
 - **Desktop**: `1440px` 
 
+
+## Logo Url
+
 ## Typography
 - **Font Family**: `Inter`, 
 - **Font Sizes**:
@@ -17,8 +20,8 @@
     - Bold: `700`
 
 ## Colors
-- **Primary Color**: `hsl(152, 42, 144)`
-- **Secondary Color**: `hsl(43, 97, 64)`
+- **Primary Color**: `hsl(304, 57%, 38%)` 
+- **Secondary Color**: `hsl(43, 97%, 64%)`
 - **Background Color**: `hsl(0, 0, 100)`
 - **Dashboard Color**: `hsl(216, 24, 96)`
 - **Text Colors**:
@@ -44,31 +47,95 @@
 - **LineHeights**
 
 
+## Onboarding
+- **Layout**
+- Width: `1440px`
+- Height: `1024px`
+- Top: `2706px`
+- Left: `51px`
+- Background-Color: `hsl(220, 22%, 96%)`
+
+- **Login Card**
+- Background Color:`hsla(210, 20%, 99%)`
+- H1 Color: `hsl(221, 43%, 11%)`
+- Body Color: `hsl(218, 15%, 65%)`
+- width: `fixed (550px)`
+- Height: `auto (631px)`
+- Left: `445px`
+- Top: `197px`
+- Radius: `20px`
+- Gap: `10px`
+- Drop-Shadow: `(0, 4px)`
+- Blur: `8px`
+- Align: `Center`
+
+
+- **Login Icon**
+- Layout: `(H-24px, W-24px)`
+- Width: `6px`
+- Height: `12px`
+- Top: `6px`
+- Left: `9px`
+- Borders: `2px`
+- Color: `hsl(221, 43%, 11%)`
+- Align: `Center`
+
+- **Logo**
+- Layout: `(W-173px, H-34px)`
+- Text Color: `hsl(304, 57%, 23%)`
+- size: `24px`
+- H2: `Bold`
+
 ## Buttons
-- **Primary Button**:
-    - Background: `hsl(152, 42, 144)`
-    - Text Color: `hsl(0, 0, 100)`
-    - Text Size: `4px`
-    - Border Radius: `sm`
-    - Padding: `2px`
+- **Login Primary Button**:
+    - Background: `Primary Color`
+    - Text Color: `hsl(210, 20%, 99%)`
+    - Text Size: `16px`
+    - Border: `1px`
+    - Radius: `8px`
+    - Padding: `(14px, 4px)`
+    - Gap:`10px`
+    - align: `center`
    
     
-- **Secondary Button**:
-    - Background: `hsl(152, 42, 144)`
-    - Text Color: `hsl(0, 0, 100)`
-    - Text Size: `4px`
-    - Border Radius: `sm`
-    - Disabled Text Color: `hsl(152, 42, 144)` 
-    - Disabled color: `hsl(300, 24, 96)`
-    - Padding: `2px`
+- **Login Secondary Button**:
+    - Background: `hsl(0, 0%, 100%)`
+    - Text Color: `hsl(216, 16%, 84%)`
+    - Text Size: `16px`
+    - Border: `1px`
+    - Radius: `8px`
+    - Padding: `14px, 4px`
+    - Gap: `10px`
+    - align: `center`
 
-## Forms
 - **Input Fields**:
     - Background Color: `hsl(0, 0, 100)`
-    - Border: ``
-    - Border Radius: `4px`
-    - Padding: `12px`
-    - Shadow: `0px 4px 4px` 
+
+
+- **E-mail Verification Card**
+- Background Color:`hsla(210, 20%, 99%)`
+- H1 Color: `hsl(221, 43%, 11%)`
+- Body Color: `hsl(218, 15%, 65%)`
+- width: `550px`
+- Height: `614px`
+- Left: `470px`
+- Top: `205px`
+- Radius: `20px`
+- Gap: `10px`
+- Drop-Shadow: `(0, 4px)`
+- Blur: `8px`
+- Align: `Center`
+
+- **E-mail  Icon**
+- Layout: `(H-32px, W-32px)`
+- Width: `32px`
+- Height: `32px`
+- Top: `5.33px`
+- Left: `2.67px`
+- Borders: `2px`
+- Color: `hsl(43, 97%, 64%)`
+- Align: `Center`
+- Border Color: `hsl(300, 24%, 96%)`
 
 ## Menu 
 - **Menu List**:
